@@ -32,7 +32,7 @@
         <a href="" class="p-6">Login</a>
       </li>
       <li>
-        <a href="" class="p-6">Register</a>
+        <a href="{{ route('register') }}" class="p-6">Register</a>
       </li>
     </ul>
   </nav>
